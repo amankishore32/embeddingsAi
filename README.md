@@ -1,0 +1,2 @@
+# embeddingsAi
+Fun with embeddings
